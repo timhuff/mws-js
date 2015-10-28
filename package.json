@@ -15,6 +15,6 @@
     "url" : "https://github.com/dfsklar/mws-js.git"
   },
   "dependencies" : {
-    "xml2js" : ">=0.1.13"
+    "xml2js" : "0.4.9"
   }
 }
